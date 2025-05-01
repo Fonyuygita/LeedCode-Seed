@@ -1,7 +1,8 @@
 # 🚀 IWS LeetCode Challenge
 
 <div align="center">
-![solve leedcode problems](https://github.com/user-attachments/assets/fc01665d-3eb8-4bd9-9f09-d342273263a3)
+![image](https://github.com/user-attachments/assets/b6722d41-3d69-489e-b348-a3aca5d3aeea.png)
+
   
 
   # Innovate with Seed (IWS) Tech Companies - LeetCode Challenge
