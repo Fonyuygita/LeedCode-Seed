@@ -1,8 +1,8 @@
 # 🚀 IWS LeetCode Challenge
 
 <div align="center">
+![solve leedcode problems](https://github.com/user-attachments/assets/fc01665d-3eb8-4bd9-9f09-d342273263a3)
   
-  ![LeetCode Banner](https://raw.githubusercontent.com/LeetCode-Feedback/LeetCode-Feedback/main/images/LeetCode_logo_black.png)
 
   # Innovate with Seed (IWS) Tech Companies - LeetCode Challenge
   ### Master Data Structures & Algorithms One Problem at a Time
