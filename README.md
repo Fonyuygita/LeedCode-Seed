@@ -1,9 +1,9 @@
 # 🚀 IWS LeetCode Challenge
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/b6722d41-3d69-489e-b348-a3aca5d3aeea.png)
 
-  
+  ![a_a_realistic_codi_image_ (1)](https://github.com/user-attachments/assets/0f08068c-9926-4827-9553-af7d10e69d25)
+
 
   # Innovate with Seed (IWS) Tech Companies - LeetCode Challenge
   ### Master Data Structures & Algorithms One Problem at a Time
