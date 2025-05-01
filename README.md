@@ -166,7 +166,6 @@ This month focuses on fundamental data structures and algorithms, covering array
 
 ## Lessons Learned
 [What you learned from this problem]
-```
 
 ## 🛠️ Resources
 
