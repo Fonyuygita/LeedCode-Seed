@@ -126,7 +126,7 @@ This month focuses on fundamental data structures and algorithms, covering array
 
 ## 📝 Problem Solution Template
 
-```markdown
+
 # [Problem Name]
 
 ## Problem Description
